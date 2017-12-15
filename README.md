@@ -1,3 +1,15 @@
+# SageNotes
+Can be accessed at -->                              https://pedometergroupmapcompetition.firebaseapp.com/
+Good video on firebase hosting angular app at -->   https://www.youtube.com/watch?v=aICeVhu2mAE
+Firebase hosting documented at -->                  https://firebase.google.com/docs/hosting/quickstart
+Intially created from angular command line -->      
+  > ng new fb-arborlife
+  > cd fb-arborlife
+  > ng serve
+Domains still available -->    arborlives.com, arborlife.biz, myarborlife.com, 1arborlife.com, arborlife.us, arborlife.live, arborlife.today, i
+                               arborlife.rip, arborlife.wtf, arborlife.net(unknown),
+                               alife.rip, alife.wtf, alife.today, 
+
 # FbArborlife
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.1.
