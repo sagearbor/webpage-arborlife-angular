@@ -1,3 +1,6 @@
+webpage-arborlife-angular
+A webpage written with angular2 to eventually act as access for arborLife app data. Just a stub currently hosted on firebase.
+
 # SageNotes
 Can be accessed at -->                              https://pedometergroupmapcompetition.firebaseapp.com/
 Good video on firebase hosting angular app at -->   https://www.youtube.com/watch?v=aICeVhu2mAE
