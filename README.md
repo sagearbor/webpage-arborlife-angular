@@ -12,6 +12,10 @@ Intially created from angular command line -->
 Domains still available -->    arborlives.com, arborlife.biz, myarborlife.com, 1arborlife.com, arborlife.us, arborlife.live, arborlife.today, i
                                arborlife.rip, arborlife.wtf, arborlife.net(unknown),
                                alife.rip, alife.wtf, alife.today, 
+                               arbor.life , arbor.direct, arbor.email , arbor.family , arbor.fyi , arbor.guru , arbor.haus , arbor.healthcare
+                               arbor.how , arbor.institute , arbor.live , arbor.ninja , arbor.plus , arbor.pub , arbor.pw , arbor.rocks , arbor.run
+                               arbor.school , arbor.social , arbor.software , arbor.support , arbor.team , arbor.tips , arbor.vision, arbor.world
+                               arbor.zone 
 
 # FbArborlife
 
